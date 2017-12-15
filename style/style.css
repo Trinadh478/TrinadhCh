@@ -1,0 +1,25 @@
+.xouter{
+	width:100%;
+	border:1px solid #000;
+}
+.xleftcol
+{
+	width: 25%;
+	background:#d2da9c;
+}
+.xmiddlecol
+{
+	width: 50%;
+	background:#eff2df;
+}
+.xrightcol
+{
+	width: 25%;
+	background:#d2da9c;
+}
+.common-section {
+	float:left;
+	text-align: center;
+	padding: 20px 0 20px 0;
+	font-size: 14px;
+}
